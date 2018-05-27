@@ -1,7 +1,3 @@
-# monument-internship
-
-Python Version Used: 3.6.5
-
 # Task 1
 
 Install the required libraries using pip command:
@@ -17,11 +13,3 @@ The code returns:
 
 To Run:
 python3 task1.py
-
-# Task 2
-
-Before running install mysql connector for the required operating
-system platform. Then install python-intercom using pip command
-
-To Run:
-python3 task2.py
